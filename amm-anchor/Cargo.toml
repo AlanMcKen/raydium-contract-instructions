@@ -15,3 +15,4 @@ devnet = []
 anchor-lang = "0.31.0"
 anchor-spl = { version = "0.31.0" }
 raydium-contract-instructions = { path = "../lib" }
+ahash = "0.8.11"
