@@ -3,7 +3,7 @@ name = "amm-anchor"
 version = "0.1.0"
 description = "Anchor bindings for the AMM native instruction."
 homepage = "https://raydium.io/"
-repository = "https://github.com/raydium-io/raydium-contract-instructions"
+repository = "https://github.com/AlanMcKen/raydium-contract-instructions.git"
 edition = "2021"
 keywords = ["solana", "raydium", "amm", "anchor"]
 
